@@ -30,14 +30,14 @@ const ContactBtn = () => {
       }}
     >
       <h3>
-        <NavLink to="/contact">
+        <NavLink to="/">
           <motion.div
             variants={TextVarient}
             initial="initial"
             animate="animate"
           >
-            <span>Contact </span>
-            <span>Me</span>
+            <span>Welcome </span>
+            <span>Here!</span>
           </motion.div>
         </NavLink>
       </h3>

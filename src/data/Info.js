@@ -30,9 +30,9 @@ export const AboutInfo = () => {
         <br />
         <br />
         At last, Feel free to{" "}
-        <em>
+        <a>
           CONTACT ME.
-        </em>{" "}
+        </a>{" "}
        
       </p>
     </>

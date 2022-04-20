@@ -1,9 +1,9 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="https://abhirajmaid.ml" target="_blank">abhirajmaid.ml</a>
+  <a href="https://abhirajmaid.ml" target="_blank">Youssef</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="https://github.com/Abhirajmaid/Media-Storage/blob/master/Portfolio.png?raw=true" />
+  <img alt="Demo" src="https://github.com/youssefyasser98/Portfolio/blob/main/Portfolio.png?raw=true" />
 </div>
 
 <br/>
@@ -17,14 +17,14 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/Abhirajmaid/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/youssefyasser98/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/Abhirajmaid/Portfolio/issues">Feature Suggestion</a>
+    <a href="https://github.com/youssefyasser98/Portfolio/issues">Feature Suggestion</a>
 </h3>
 
 ## Built With
 
-My personal portfolio <a href="https://abhirajmaid.ml/" target="_blank">Abhiraj Maid</a> which Showcases about me, ny skills and projects and also build with React and Framer motion<br/>
+My personal portfolio <a href="https://abhirajmaid.ml/" target="_blank">Youssef Yasser</a> which Showcases about me, ny skills and projects and also build with React and Framer motion<br/>
 
 This project was built using these technologies 💥:
 

@@ -64,4 +64,4 @@ You will find all the components used and you can edit your information accordin
 Give a ⭐ if you like this website!
 #� �P�o�r�t�f�o�l�i�o�
 �
-�
+� 

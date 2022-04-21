@@ -90,4 +90,16 @@ export const WorkData = [
     img: "https://github.com/youssefyasser98/Simon-Game/blob/main/Screenshot%20(178).png?raw=true",
     side: true,
   },
+   {
+    id: 8,
+    name: "My Reads App",
+    description:
+      "A Web App that displays books according to what you're Currently reading , Want to Read , Finished Reading ",
+    tags: ["HTML", "CSS", "JavaScript"],
+
+    demo: "https://github.com/youssefyasser98/myreads-app",
+    github: "https://github.com/youssefyasser98/myreads-app",
+    img: "https://github.com/youssefyasser98/myreads-app/blob/main/myreads.png?raw=true",
+    side: false,
+  },
 ];

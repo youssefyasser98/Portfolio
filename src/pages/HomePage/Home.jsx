@@ -47,7 +47,7 @@ const Home = () => {
             <div className="resume-btn-wrap">
               <CTABtn
                 text="Resume"
-                link="https://drive.google.com/file/d/18VdotmWsGmAcU8CRAhJXI1s4gDoJmNU0/view?usp=sharing"
+                link="https://drive.google.com/file/d/1h5lfyz1JJzPgu2lSl1emXDWphLLDkSfB/view?usp=sharing"
                 padding="clamp(8px, 2px + 1vw, 10px)"
                 width="clamp(120px, 90px + 10vw ,220px)"
               />

@@ -102,4 +102,16 @@ export const WorkData = [
     img: "https://github.com/youssefyasser98/myreads-app/blob/main/myreads.png?raw=true",
     side: false,
   },
+   {
+    id: 9,
+    name: "Leon Agency",
+    description:
+      "A HTML/CSS Design Template for an Agency ",
+    tags: ["HTML", "CSS",],
+
+    demo: "https://github.com/youssefyasser98/Leon-Agency",
+    github: "https://github.com/youssefyasser98/Leon-Agency",
+    img: "https://github.com/youssefyasser98/myreads-app/blob/main/myreads.png?raw=true",
+    side: true,
+  },
 ];

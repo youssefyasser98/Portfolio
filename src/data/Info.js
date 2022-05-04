@@ -22,7 +22,7 @@ export const AboutInfo = () => {
         I am Software Engineer and a Front-end developer.
         <br />
         <br />
-        Currently , working as a Senior Information Security Officer at First Abu Dhabi Bank 'FAB' 😅.
+        Currently , working as a Junior Information Security Officer at First Abu Dhabi Bank 'FAB' 😅.
         {/*. */}
         <br />
         <br />I love exploring different kind of fields and Being up-to-date with new Technologies

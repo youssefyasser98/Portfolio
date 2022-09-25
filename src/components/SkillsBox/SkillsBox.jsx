@@ -19,7 +19,7 @@ const SkillsBox = () => {
       "GIT and GitHub",
     ],
     CompetetiveSkills: ["C++","Java","JavaScript","C#","Python", "Data Structures", "Algorithms"],
-    Extras: ["Linux", "Blender", "VScode", "Vim", "Intelliji","Eclipse","Photoshop","Unity"],
+    Extras: ["Selenium","Cucumber","Postman","Automation", "Blender", "VScode", "Vim", "Intelliji","Eclipse","Linux"],
   };
 
   return (
@@ -42,7 +42,7 @@ const SkillsBox = () => {
           </ul>
         </div>
         <div className="skills-colomn-wrap">
-          <h3>Extras</h3>
+          <h3>Software Test Engineer</h3>
           <ul>
             {Skills.Extras.map((skill, index) => {
               return <li key={index}>{skill}</li>;

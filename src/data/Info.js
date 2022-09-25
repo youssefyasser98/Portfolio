@@ -19,10 +19,10 @@ export const AboutInfo = () => {
   return (
     <>
       <p>
-        I am Software Engineer and a Front-end developer.
+        I am Software Engineer and a Software Test Engineer.
         <br />
         <br />
-        Currently , working as a Junior Information Security Officer at First Abu Dhabi Bank 'FAB' 😅.
+        Currently , working as a Software Test Engineer at DXC Technology.
         {/*. */}
         <br />
         <br />I love exploring different kind of fields and Being up-to-date with new Technologies

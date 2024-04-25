@@ -19,7 +19,7 @@ export const AboutInfo = () => {
   return (
     <>
       <p>
-        I am Software Engineer and a Software Test Engineer.
+        I am a Software Test Engineer.
         <br />
         <br />
         Currently , working as a Software Test Engineer at DXC Technology.
